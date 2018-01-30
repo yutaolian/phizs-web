@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/
+phizs-web.iml
+src/main/java/com/phizs/framework/web/util/
+src/main/webapp/WEB-INF/.DS_Store
