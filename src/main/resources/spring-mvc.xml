@@ -31,8 +31,6 @@
 	</bean>
 
 	<mvc:annotation-driven />
-	<mvc:resources location="/activities/" mapping="/activities/**" />
-
 	<!-- 不拦截img,js,css等文件 -->
 	<mvc:resources location="/resources/" mapping="/resources/**" />
 	<mvc:resources location="/favicon.ico" mapping="favicon.ico" />
